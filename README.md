@@ -2,9 +2,11 @@
 
 ## Source Code
 GitHub Repository:  
-https://github.com/your-username/adaptiq
+https://github.com/siddcxdes/adaptIQ
 
 ---
+
+#THIS PROJECT USES LOCAL LLM (OLLAMA)
 
 # Project Overview
 
